@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class OladjangoConfig(AppConfig):
-    name = 'OlaDjango'
+    name = 'oladjango'
