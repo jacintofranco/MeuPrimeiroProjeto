@@ -23,6 +23,7 @@ urlpatterns = [
 
     path('admin/', admin.site.urls),
     path('olamundo/', olamundo, name='olamundo'),
+    path('', paginaInicial, name='home'),
 ]
 
 ##
