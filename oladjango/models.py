@@ -17,5 +17,5 @@ class Categorias(models.Model):
 
 # python manage.py shell
 
-
+# Model, View configurar a URL
 #Teste eeeeeeeeeeeeeeeeeeeeeeeeeeasdjflkjalsdfjlsajdlkfjl
